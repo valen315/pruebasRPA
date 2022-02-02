@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZitrPgpcl4FvnkSJS79NB++Jiy2ZV3F7/WxaUV4HoolvuV9D8/5YzmIE6ha2Yoi3MdVrAVVHUDG0pEsiRmoYDw==",
+  "dgSpecHash": "DZIAB4ck2g2fGeZDSsptdg5GkQA45RJwAAqbEXUI68dzhimu8daDxJuzhlkomCnjR7mPFal1ztERW7CCx3V8pA==",
   "success": true,
-  "projectFilePath": "D:\\UiPath\\PrimerRobot\\.local\\",
+  "projectFilePath": "D:\\UiPath\\pruebasRPA\\pruebas UiPath\\PrimerRobot\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\win10\\.nuget\\packages\\bitmiracle.docotic.pdf\\7.5.11645\\bitmiracle.docotic.pdf.7.5.11645.nupkg.sha512",
     "C:\\Users\\win10\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",

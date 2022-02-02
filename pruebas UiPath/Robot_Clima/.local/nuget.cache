@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hEtfwTvTj1MQ/Cd0iqx8v9weVGon/dhTu53oyxzQiNP+ce/dVCGQn65LjuF1plHddpF7bcNOXVYt/mS8GO6cLA==",
+  "dgSpecHash": "noCopGMHvdUBYABC+AbkqSA7MUr5lGNkzxUQ6Pm4Pb1Sz06tq+o4rg3xMdB+RFwahYHGf54E1MfSYnzrtjYqWA==",
   "success": true,
-  "projectFilePath": "D:\\UiPath\\Robot_Clima\\.local\\",
+  "projectFilePath": "D:\\UiPath\\pruebasRPA\\pruebas UiPath\\Robot_Clima\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\win10\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\win10\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

@@ -7572,9 +7572,9 @@
     "restore": {
       "projectUniqueName": "Robot_Clima",
       "projectName": "Robot_Clima",
-      "projectPath": "D:\\UiPath\\Robot_Clima\\.local",
+      "projectPath": "D:\\UiPath\\pruebasRPA\\pruebas UiPath\\Robot_Clima\\.local",
       "packagesPath": "C:\\Users\\win10\\.nuget\\packages\\",
-      "outputPath": "D:\\UiPath\\Robot_Clima\\.local"
+      "outputPath": "D:\\UiPath\\pruebasRPA\\pruebas UiPath\\Robot_Clima\\.local"
     },
     "frameworks": {
       "net461": {
