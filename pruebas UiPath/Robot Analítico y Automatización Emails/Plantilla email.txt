@@ -1,0 +1,9 @@
+Hola,
+
+El resultado del análisis en la ciudad de {0} es de {1}
+
+Espero que le sea de ayuda
+
+Un saludo
+
+*Mensaje automatizado*

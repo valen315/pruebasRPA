@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0j6ZlHPqem6fgnlhue83rPia5ozXjChUGxpyDeyF+XnF23pHXqPHTgqqn1/nR5+bJ7IL6REeb2OH8R7o/iwqlA==",
+  "dgSpecHash": "aYLgXtst/5LUSKHImHu/vZz/F6VqRk0L+dBdBW1bxbc74VFIAxz4AoQ3bvcwyar/XESMQhn95ulGMcMmQHMRyQ==",
   "success": true,
-  "projectFilePath": "C:\\Uipath-Pruebas\\New folder\\Robot Analítico y Automatización Emails\\.local\\",
+  "projectFilePath": "C:\\Uipath-Pruebas\\pruebasRPA\\pruebas UiPath\\Robot Analítico y Automatización Emails\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

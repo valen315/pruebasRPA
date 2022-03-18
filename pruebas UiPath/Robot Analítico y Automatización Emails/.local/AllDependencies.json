@@ -7571,9 +7571,9 @@
     "restore": {
       "projectUniqueName": "Robot Analítico y Automatización Emails",
       "projectName": "Robot Analítico y Automatización Emails",
-      "projectPath": "C:\\Uipath-Pruebas\\New folder\\Robot Analítico y Automatización Emails\\.local",
+      "projectPath": "C:\\Uipath-Pruebas\\pruebasRPA\\pruebas UiPath\\Robot Analítico y Automatización Emails\\.local",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Uipath-Pruebas\\New folder\\Robot Analítico y Automatización Emails\\.local"
+      "outputPath": "C:\\Uipath-Pruebas\\pruebasRPA\\pruebas UiPath\\Robot Analítico y Automatización Emails\\.local"
     },
     "frameworks": {
       "net461": {

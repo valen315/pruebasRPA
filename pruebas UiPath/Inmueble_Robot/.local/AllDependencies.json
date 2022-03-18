@@ -7566,15 +7566,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\win10\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Asesor_Inmobiliario",
       "projectName": "Asesor_Inmobiliario",
-      "projectPath": "D:\\UiPath\\pruebasRPA\\pruebas UiPath\\Inmueble_Robot\\.local",
-      "packagesPath": "C:\\Users\\win10\\.nuget\\packages\\",
-      "outputPath": "D:\\UiPath\\pruebasRPA\\pruebas UiPath\\Inmueble_Robot\\.local"
+      "projectPath": "C:\\Uipath-Pruebas\\pruebasRPA\\pruebas UiPath\\Inmueble_Robot\\.local",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Uipath-Pruebas\\pruebasRPA\\pruebas UiPath\\Inmueble_Robot\\.local"
     },
     "frameworks": {
       "net461": {
@@ -7600,7 +7600,7 @@
             "version": "[21.10.4, 21.10.4]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\win10\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\User\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
