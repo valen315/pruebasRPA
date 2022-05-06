@@ -8178,9 +8178,9 @@
     "restore": {
       "projectUniqueName": "RobotOrganizador",
       "projectName": "RobotOrganizador",
-      "projectPath": "C:\\Uipath-Pruebas\\New folder\\RobotOrganizador\\.local",
+      "projectPath": "C:\\Uipath-Pruebas\\pruebasRPA\\pruebas UiPath\\RobotOrganizador\\.local",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Uipath-Pruebas\\New folder\\RobotOrganizador\\.local"
+      "outputPath": "C:\\Uipath-Pruebas\\pruebasRPA\\pruebas UiPath\\RobotOrganizador\\.local"
     },
     "frameworks": {
       "net461": {

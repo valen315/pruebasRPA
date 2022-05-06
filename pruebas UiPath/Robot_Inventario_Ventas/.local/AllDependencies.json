@@ -7566,15 +7566,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\win10\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Robot_Inventario_Ventas",
       "projectName": "Robot_Inventario_Ventas",
-      "projectPath": "D:\\UiPath\\pruebasRPA\\pruebas UiPath\\Robot_Inventario_Ventas\\.local",
-      "packagesPath": "C:\\Users\\win10\\.nuget\\packages\\",
-      "outputPath": "D:\\UiPath\\pruebasRPA\\pruebas UiPath\\Robot_Inventario_Ventas\\.local"
+      "projectPath": "C:\\Uipath-Pruebas\\pruebasRPA\\pruebas UiPath\\Robot_Inventario_Ventas\\.local",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Uipath-Pruebas\\pruebasRPA\\pruebas UiPath\\Robot_Inventario_Ventas\\.local"
     },
     "frameworks": {
       "net461": {
@@ -7600,7 +7600,7 @@
             "version": "[21.10.5, 21.10.5]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\win10\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\User\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
